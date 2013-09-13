@@ -1,6 +1,6 @@
 ## Cordova android thumbnailer plugin
 
-  * Author: Tanin Srivaraphong (Original : Guido Sabatini)
+  * Author: Tanin Srivaraphong
   * License: The MIT License
   * Tested on PhoneGap/Cordova 2.3.0 - 2.9.0
 
